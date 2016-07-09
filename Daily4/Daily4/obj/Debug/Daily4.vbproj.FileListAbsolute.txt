@@ -1,0 +1,22 @@
+C:\Users\Ryan\Desktop\CSC - 211\Daily4\Daily4\bin\Debug\Daily4.exe.config
+C:\Users\Ryan\Desktop\CSC - 211\Daily4\Daily4\obj\Debug\Daily4.vbprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\CSC - 211\Daily4\Daily4\obj\Debug\WindowsApplication1.frmDaily4.resources
+C:\Users\Ryan\Desktop\CSC - 211\Daily4\Daily4\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ryan\Desktop\CSC - 211\Daily4\Daily4\obj\Debug\Daily4.vbproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\CSC - 211\Daily4\Daily4\obj\Debug\Daily4.xml
+C:\Users\Ryan\Desktop\CSC - 211\Daily4\Daily4\bin\Debug\Daily4.exe
+C:\Users\Ryan\Desktop\CSC - 211\Daily4\Daily4\bin\Debug\Daily4.pdb
+C:\Users\Ryan\Desktop\CSC - 211\Daily4\Daily4\bin\Debug\Daily4.xml
+C:\Users\Ryan\Desktop\CSC - 211\Daily4\Daily4\obj\Debug\Daily4.exe
+C:\Users\Ryan\Desktop\CSC - 211\Daily4\Daily4\obj\Debug\Daily4.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Daily4\Daily4\bin\Debug\Daily4.exe.config
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Daily4\Daily4\obj\Debug\Daily4.exe
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Daily4\Daily4\obj\Debug\Daily4.xml
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Daily4\Daily4\obj\Debug\Daily4.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Daily4\Daily4\bin\Debug\Daily4.exe
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Daily4\Daily4\bin\Debug\Daily4.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Daily4\Daily4\bin\Debug\Daily4.xml
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Daily4\Daily4\obj\Debug\Daily4.vbprojResolveAssemblyReference.cache
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Daily4\Daily4\obj\Debug\WindowsApplication1.frmDaily4.resources
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Daily4\Daily4\obj\Debug\WindowsApplication1.Resources.resources
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Daily4\Daily4\obj\Debug\Daily4.vbproj.GenerateResource.Cache
