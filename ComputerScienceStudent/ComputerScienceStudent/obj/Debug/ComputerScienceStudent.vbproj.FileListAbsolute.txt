@@ -1,0 +1,40 @@
+C:\Users\Ryan\Desktop\CSC - 211\Computer Science Student\ComputerScienceStudent\ComputerScienceStudent\bin\Debug\ComputerScienceStudent.exe.config
+C:\Users\Ryan\Desktop\CSC - 211\Computer Science Student\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\ComputerScienceStudent.vbprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\CSC - 211\Computer Science Student\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\WindowsApplication1.frmComputerScienceStudent.resources
+C:\Users\Ryan\Desktop\CSC - 211\Computer Science Student\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\WindowsApplication1.DisplayForm.resources
+C:\Users\Ryan\Desktop\CSC - 211\Computer Science Student\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ryan\Desktop\CSC - 211\Computer Science Student\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\ComputerScienceStudent.vbproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\CSC - 211\Computer Science Student\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\ComputerScienceStudent.xml
+C:\Users\Ryan\Desktop\CSC - 211\Computer Science Student\ComputerScienceStudent\ComputerScienceStudent\bin\Debug\ComputerScienceStudent.exe
+C:\Users\Ryan\Desktop\CSC - 211\Computer Science Student\ComputerScienceStudent\ComputerScienceStudent\bin\Debug\ComputerScienceStudent.pdb
+C:\Users\Ryan\Desktop\CSC - 211\Computer Science Student\ComputerScienceStudent\ComputerScienceStudent\bin\Debug\ComputerScienceStudent.xml
+C:\Users\Ryan\Desktop\CSC - 211\Computer Science Student\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\ComputerScienceStudent.exe
+C:\Users\Ryan\Desktop\CSC - 211\Computer Science Student\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\ComputerScienceStudent.pdb
+C:\Users\Ryan\Desktop\ComputerScienceStudent\ComputerScienceStudent\bin\Debug\ComputerScienceStudent.exe.config
+C:\Users\Ryan\Desktop\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\ComputerScienceStudent.exe
+C:\Users\Ryan\Desktop\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\ComputerScienceStudent.xml
+C:\Users\Ryan\Desktop\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\ComputerScienceStudent.pdb
+C:\Users\Ryan\Desktop\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\bin\Debug\ComputerScienceStudent.exe.config
+C:\Users\Ryan\Desktop\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\ComputerScienceStudent.exe
+C:\Users\Ryan\Desktop\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\ComputerScienceStudent.xml
+C:\Users\Ryan\Desktop\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\ComputerScienceStudent.pdb
+C:\Users\Ryan\Desktop\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\bin\Debug\ComputerScienceStudent.exe
+C:\Users\Ryan\Desktop\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\bin\Debug\ComputerScienceStudent.pdb
+C:\Users\Ryan\Desktop\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\bin\Debug\ComputerScienceStudent.xml
+C:\Users\Ryan\Desktop\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\ComputerScienceStudent.vbprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\WindowsApplication1.frmComputerScienceStudent.resources
+C:\Users\Ryan\Desktop\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\WindowsApplication1.DisplayForm.resources
+C:\Users\Ryan\Desktop\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ryan\Desktop\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\ComputerScienceStudent.vbproj.GenerateResource.Cache
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\bin\Debug\ComputerScienceStudent.exe.config
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\ComputerScienceStudent.exe
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\ComputerScienceStudent.xml
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\ComputerScienceStudent.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\bin\Debug\ComputerScienceStudent.exe
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\bin\Debug\ComputerScienceStudent.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\bin\Debug\ComputerScienceStudent.xml
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\ComputerScienceStudent.vbprojResolveAssemblyReference.cache
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\WindowsApplication1.frmComputerScienceStudent.resources
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\WindowsApplication1.DisplayForm.resources
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\WindowsApplication1.Resources.resources
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\ComputerScienceStudent\ComputerScienceStudent\obj\Debug\ComputerScienceStudent.vbproj.GenerateResource.Cache
