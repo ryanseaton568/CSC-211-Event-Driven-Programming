@@ -1,0 +1,27 @@
+C:\Users\seatonjr\AppData\Local\Temporary Projects\Date String\bin\Debug\Date String.exe.config
+C:\Users\seatonjr\Desktop\Date String\Date String\Date String\bin\Debug\Date String.exe.config
+C:\Users\seatonjr\Desktop\Date String\Date String\Date String\obj\Debug\Date String.vbprojResolveAssemblyReference.cache
+C:\Users\seatonjr\Desktop\Date String\Date String\Date String\obj\Debug\Date_String.frmDateString.resources
+C:\Users\seatonjr\Desktop\Date String\Date String\Date String\obj\Debug\Date_String.Resources.resources
+C:\Users\seatonjr\Desktop\Date String\Date String\Date String\obj\Debug\Date String.vbproj.GenerateResource.Cache
+C:\Users\seatonjr\Desktop\Date String\Date String\Date String\obj\Debug\Date String.xml
+C:\Users\seatonjr\Desktop\Date String\Date String\Date String\bin\Debug\Date String.exe
+C:\Users\seatonjr\Desktop\Date String\Date String\Date String\bin\Debug\Date String.pdb
+C:\Users\seatonjr\Desktop\Date String\Date String\Date String\bin\Debug\Date String.xml
+C:\Users\seatonjr\Desktop\Date String\Date String\Date String\obj\Debug\Date String.exe
+C:\Users\seatonjr\Desktop\Date String\Date String\Date String\obj\Debug\Date String.pdb
+C:\Users\Ryan\Desktop\CSC - 211\Date String\Date String\Date String\bin\Debug\Date String.exe.config
+C:\Users\Ryan\Desktop\CSC - 211\Date String\Date String\Date String\obj\Debug\Date String.exe
+C:\Users\Ryan\Desktop\CSC - 211\Date String\Date String\Date String\obj\Debug\Date String.xml
+C:\Users\Ryan\Desktop\CSC - 211\Date String\Date String\Date String\obj\Debug\Date String.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Date String\Date String\Date String\bin\Debug\Date String.exe.config
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Date String\Date String\Date String\bin\Debug\Date String.exe
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Date String\Date String\Date String\bin\Debug\Date String.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Date String\Date String\Date String\bin\Debug\Date String.xml
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Date String\Date String\Date String\obj\Debug\Date String.vbprojResolveAssemblyReference.cache
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Date String\Date String\Date String\obj\Debug\Date_String.frmDateString.resources
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Date String\Date String\Date String\obj\Debug\Date_String.Resources.resources
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Date String\Date String\Date String\obj\Debug\Date String.vbproj.GenerateResource.Cache
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Date String\Date String\Date String\obj\Debug\Date String.exe
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Date String\Date String\Date String\obj\Debug\Date String.xml
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Date String\Date String\Date String\obj\Debug\Date String.pdb
