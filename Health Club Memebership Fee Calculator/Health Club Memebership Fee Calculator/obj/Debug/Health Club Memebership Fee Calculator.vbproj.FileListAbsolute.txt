@@ -1,0 +1,22 @@
+C:\Users\Ryan\Desktop\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\bin\Debug\Health Club Memebership Fee Calculator.exe.config
+C:\Users\Ryan\Desktop\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\obj\Debug\Health Club Memebership Fee Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ryan\Desktop\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\obj\Debug\Health Club Memebership Fee Calculator.vbproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\bin\Debug\Health Club Memebership Fee Calculator.exe
+C:\Users\Ryan\Desktop\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\bin\Debug\Health Club Memebership Fee Calculator.pdb
+C:\Users\Ryan\Desktop\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\bin\Debug\Health Club Memebership Fee Calculator.xml
+C:\Users\Ryan\Desktop\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\obj\Debug\Health Club Memebership Fee Calculator.exe
+C:\Users\Ryan\Desktop\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\obj\Debug\Health Club Memebership Fee Calculator.xml
+C:\Users\Ryan\Desktop\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\obj\Debug\Health Club Memebership Fee Calculator.pdb
+C:\Users\Ryan\Desktop\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\obj\Debug\WindowsApplication1.frmHealthClubMembershipFeeCalculator.resources
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\bin\Debug\Health Club Memebership Fee Calculator.exe.config
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\obj\Debug\Health Club Memebership Fee Calculator.exe
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\obj\Debug\Health Club Memebership Fee Calculator.xml
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\obj\Debug\Health Club Memebership Fee Calculator.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\bin\Debug\Health Club Memebership Fee Calculator.exe
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\bin\Debug\Health Club Memebership Fee Calculator.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\bin\Debug\Health Club Memebership Fee Calculator.xml
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\obj\Debug\Health Club Memebership Fee Calculator.vbprojResolveAssemblyReference.cache
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\obj\Debug\WindowsApplication1.frmHealthClubMembershipFeeCalculator.resources
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\obj\Debug\WindowsApplication1.Resources.resources
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Health Club Memebership Fee Calculator\Health Club Memebership Fee Calculator\obj\Debug\Health Club Memebership Fee Calculator.vbproj.GenerateResource.Cache
