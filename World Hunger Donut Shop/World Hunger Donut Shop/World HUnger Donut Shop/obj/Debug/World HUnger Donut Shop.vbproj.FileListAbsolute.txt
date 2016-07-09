@@ -1,0 +1,45 @@
+C:\Users\seatonjr\AppData\Local\Temporary Projects\World HUnger Donut Shop\bin\Debug\World HUnger Donut Shop.exe.config
+C:\Users\seatonjr\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\bin\Debug\World HUnger Donut Shop.exe.config
+C:\Users\seatonjr\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World HUnger Donut Shop.vbprojResolveAssemblyReference.cache
+C:\Users\seatonjr\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World_HUnger_Donut_Shop.frmWorldHungerDonutShop.resources
+C:\Users\seatonjr\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World_HUnger_Donut_Shop.Resources.resources
+C:\Users\seatonjr\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World HUnger Donut Shop.vbproj.GenerateResource.Cache
+C:\Users\seatonjr\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World HUnger Donut Shop.xml
+C:\Users\seatonjr\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\bin\Debug\World HUnger Donut Shop.exe
+C:\Users\seatonjr\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\bin\Debug\World HUnger Donut Shop.pdb
+C:\Users\seatonjr\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\bin\Debug\World HUnger Donut Shop.xml
+C:\Users\seatonjr\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World HUnger Donut Shop.exe
+C:\Users\seatonjr\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World HUnger Donut Shop.pdb
+C:\Users\Ryan\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\bin\Debug\World HUnger Donut Shop.exe.config
+C:\Users\Ryan\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World HUnger Donut Shop.exe
+C:\Users\Ryan\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World HUnger Donut Shop.xml
+C:\Users\Ryan\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World HUnger Donut Shop.pdb
+C:\Users\Ryan\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\bin\Debug\World HUnger Donut Shop.exe
+C:\Users\Ryan\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\bin\Debug\World HUnger Donut Shop.pdb
+C:\Users\Ryan\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\bin\Debug\World HUnger Donut Shop.xml
+C:\Users\Ryan\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World HUnger Donut Shop.vbprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World_HUnger_Donut_Shop.frmWorldHungerDonutShop.resources
+C:\Users\Ryan\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World_HUnger_Donut_Shop.Resources.resources
+C:\Users\Ryan\Desktop\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World HUnger Donut Shop.vbproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\bin\Debug\World HUnger Donut Shop.exe.config
+C:\Users\Ryan\Desktop\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World HUnger Donut Shop.exe
+C:\Users\Ryan\Desktop\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World HUnger Donut Shop.xml
+C:\Users\Ryan\Desktop\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World HUnger Donut Shop.pdb
+C:\Users\Ryan\Desktop\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\bin\Debug\World HUnger Donut Shop.exe
+C:\Users\Ryan\Desktop\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\bin\Debug\World HUnger Donut Shop.pdb
+C:\Users\Ryan\Desktop\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\bin\Debug\World HUnger Donut Shop.xml
+C:\Users\Ryan\Desktop\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World Hunger Donut Shop.vbprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World_HUnger_Donut_Shop.frmWorldHungerDonutShop.resources
+C:\Users\Ryan\Desktop\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World_HUnger_Donut_Shop.Resources.resources
+C:\Users\Ryan\Desktop\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World Hunger Donut Shop.vbproj.GenerateResource.Cache
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\bin\Debug\World HUnger Donut Shop.exe.config
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World HUnger Donut Shop.exe
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World HUnger Donut Shop.xml
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World HUnger Donut Shop.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\bin\Debug\World HUnger Donut Shop.exe
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\bin\Debug\World HUnger Donut Shop.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\bin\Debug\World HUnger Donut Shop.xml
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World Hunger Donut Shop.vbprojResolveAssemblyReference.cache
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World_HUnger_Donut_Shop.frmWorldHungerDonutShop.resources
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World_HUnger_Donut_Shop.Resources.resources
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\World Hunger Donut Shop\World Hunger Donut Shop\World HUnger Donut Shop\obj\Debug\World Hunger Donut Shop.vbproj.GenerateResource.Cache
