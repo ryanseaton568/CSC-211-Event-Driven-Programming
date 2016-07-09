@@ -1,0 +1,23 @@
+C:\Users\Ryan\AppData\Local\Temporary Projects\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.exe.config
+C:\Users\Ryan\Desktop\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.exe.config
+C:\Users\Ryan\Desktop\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.frmLoanCalculator.resources
+C:\Users\Ryan\Desktop\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.Resources.resources
+C:\Users\Ryan\Desktop\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.vbproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.xml
+C:\Users\Ryan\Desktop\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.exe
+C:\Users\Ryan\Desktop\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.pdb
+C:\Users\Ryan\Desktop\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.xml
+C:\Users\Ryan\Desktop\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.exe
+C:\Users\Ryan\Desktop\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.exe.config
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.exe
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.xml
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.exe
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\bin\Debug\VehicleLoanCalculator.xml
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.vbprojResolveAssemblyReference.cache
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.frmLoanCalculator.resources
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.Resources.resources
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\VehicleLoanCalculator\VehicleLoanCalculator\obj\Debug\VehicleLoanCalculator.vbproj.GenerateResource.Cache
