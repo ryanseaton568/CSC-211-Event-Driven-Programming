@@ -1,0 +1,22 @@
+C:\Users\Ryan\Desktop\CSC - 211\Bagel House\Bagel House\bin\Debug\Bagel House.exe.config
+C:\Users\Ryan\Desktop\CSC - 211\Bagel House\Bagel House\bin\Debug\Bagel House.exe
+C:\Users\Ryan\Desktop\CSC - 211\Bagel House\Bagel House\bin\Debug\Bagel House.pdb
+C:\Users\Ryan\Desktop\CSC - 211\Bagel House\Bagel House\bin\Debug\Bagel House.xml
+C:\Users\Ryan\Desktop\CSC - 211\Bagel House\Bagel House\obj\Debug\Bagel House.vbprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\CSC - 211\Bagel House\Bagel House\obj\Debug\WindowsApplication1.frmBagelHouse.resources
+C:\Users\Ryan\Desktop\CSC - 211\Bagel House\Bagel House\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ryan\Desktop\CSC - 211\Bagel House\Bagel House\obj\Debug\Bagel House.vbproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\CSC - 211\Bagel House\Bagel House\obj\Debug\Bagel House.exe
+C:\Users\Ryan\Desktop\CSC - 211\Bagel House\Bagel House\obj\Debug\Bagel House.xml
+C:\Users\Ryan\Desktop\CSC - 211\Bagel House\Bagel House\obj\Debug\Bagel House.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Bagel House\Bagel House\bin\Debug\Bagel House.exe.config
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Bagel House\Bagel House\obj\Debug\Bagel House.exe
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Bagel House\Bagel House\obj\Debug\Bagel House.xml
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Bagel House\Bagel House\obj\Debug\Bagel House.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Bagel House\Bagel House\bin\Debug\Bagel House.exe
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Bagel House\Bagel House\bin\Debug\Bagel House.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Bagel House\Bagel House\bin\Debug\Bagel House.xml
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Bagel House\Bagel House\obj\Debug\Bagel House.vbprojResolveAssemblyReference.cache
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Bagel House\Bagel House\obj\Debug\WindowsApplication1.frmBagelHouse.resources
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Bagel House\Bagel House\obj\Debug\WindowsApplication1.Resources.resources
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Bagel House\Bagel House\obj\Debug\Bagel House.vbproj.GenerateResource.Cache
