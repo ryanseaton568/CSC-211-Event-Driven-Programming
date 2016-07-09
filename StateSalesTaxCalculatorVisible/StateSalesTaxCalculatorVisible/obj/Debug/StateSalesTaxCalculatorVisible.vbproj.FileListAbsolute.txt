@@ -1,0 +1,22 @@
+C:\Users\Ryan\Desktop\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\bin\Debug\StateSalesTaxCalculatorVisible.exe.config
+C:\Users\Ryan\Desktop\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\bin\Debug\StateSalesTaxCalculatorVisible.exe
+C:\Users\Ryan\Desktop\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\bin\Debug\StateSalesTaxCalculatorVisible.pdb
+C:\Users\Ryan\Desktop\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\bin\Debug\StateSalesTaxCalculatorVisible.xml
+C:\Users\Ryan\Desktop\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\obj\Debug\StateSalesTaxCalculatorVisible.vbprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\obj\Debug\WindowsApplication1.frmStateSalesTaxCalculatorVisible.resources
+C:\Users\Ryan\Desktop\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ryan\Desktop\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\obj\Debug\StateSalesTaxCalculatorVisible.vbproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\obj\Debug\StateSalesTaxCalculatorVisible.exe
+C:\Users\Ryan\Desktop\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\obj\Debug\StateSalesTaxCalculatorVisible.xml
+C:\Users\Ryan\Desktop\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\obj\Debug\StateSalesTaxCalculatorVisible.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\bin\Debug\StateSalesTaxCalculatorVisible.exe.config
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\obj\Debug\StateSalesTaxCalculatorVisible.exe
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\obj\Debug\StateSalesTaxCalculatorVisible.xml
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\obj\Debug\StateSalesTaxCalculatorVisible.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\bin\Debug\StateSalesTaxCalculatorVisible.exe
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\bin\Debug\StateSalesTaxCalculatorVisible.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\bin\Debug\StateSalesTaxCalculatorVisible.xml
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\obj\Debug\StateSalesTaxCalculatorVisible.vbprojResolveAssemblyReference.cache
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\obj\Debug\WindowsApplication1.frmStateSalesTaxCalculatorVisible.resources
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\obj\Debug\WindowsApplication1.Resources.resources
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\StateSalesTaxCalculatorVisible\StateSalesTaxCalculatorVisible\obj\Debug\StateSalesTaxCalculatorVisible.vbproj.GenerateResource.Cache
