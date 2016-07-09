@@ -1,0 +1,48 @@
+C:\Users\seatonjr\Desktop\Location\Directions\Directions\bin\Debug\Directions.exe.config
+C:\Users\seatonjr\Desktop\Location\Directions\Directions\bin\Debug\Directions.exe
+C:\Users\seatonjr\Desktop\Location\Directions\Directions\bin\Debug\Directions.pdb
+C:\Users\seatonjr\Desktop\Location\Directions\Directions\bin\Debug\Directions.xml
+C:\Users\seatonjr\Desktop\Location\Directions\Directions\obj\Debug\Directions.vbprojResolveAssemblyReference.cache
+C:\Users\seatonjr\Desktop\Location\Directions\Directions\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\seatonjr\Desktop\Location\Directions\Directions\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\seatonjr\Desktop\Location\Directions\Directions\obj\Debug\Directions.vbproj.GenerateResource.Cache
+C:\Users\seatonjr\Desktop\Location\Directions\Directions\obj\Debug\Directions.exe
+C:\Users\seatonjr\Desktop\Location\Directions\Directions\obj\Debug\Directions.xml
+C:\Users\seatonjr\Desktop\Location\Directions\Directions\obj\Debug\Directions.pdb
+D:\Directions\Directions\Directions\bin\Debug\Directions.exe.config
+D:\Directions\Directions\Directions\obj\Debug\Directions.exe
+D:\Directions\Directions\Directions\obj\Debug\Directions.xml
+D:\Directions\Directions\Directions\obj\Debug\Directions.pdb
+D:\Directions\Directions\Directions\bin\Debug\Directions.exe
+D:\Directions\Directions\Directions\bin\Debug\Directions.pdb
+D:\Directions\Directions\Directions\bin\Debug\Directions.xml
+D:\Directions\Directions\Directions\obj\Debug\Directions.vbprojResolveAssemblyReference.cache
+D:\Directions\Directions\Directions\obj\Debug\WindowsApplication1.Form1.resources
+D:\Directions\Directions\Directions\obj\Debug\WindowsApplication1.Resources.resources
+D:\Directions\Directions\Directions\obj\Debug\Directions.vbproj.GenerateResource.Cache
+C:\Users\seatonjr\Desktop\Directions\Directions\Directions\bin\Debug\Directions.exe.config
+C:\Users\seatonjr\Desktop\Directions\Directions\Directions\obj\Debug\Directions.exe
+C:\Users\seatonjr\Desktop\Directions\Directions\Directions\obj\Debug\Directions.xml
+C:\Users\seatonjr\Desktop\Directions\Directions\Directions\obj\Debug\Directions.pdb
+C:\Users\seatonjr\Desktop\Directions\Directions\Directions\bin\Debug\Directions.exe
+C:\Users\seatonjr\Desktop\Directions\Directions\Directions\bin\Debug\Directions.pdb
+C:\Users\seatonjr\Desktop\Directions\Directions\Directions\bin\Debug\Directions.xml
+C:\Users\seatonjr\Desktop\Directions\Directions\Directions\obj\Debug\Directions.vbprojResolveAssemblyReference.cache
+C:\Users\seatonjr\Desktop\Directions\Directions\Directions\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\seatonjr\Desktop\Directions\Directions\Directions\obj\Debug\Directions.vbproj.GenerateResource.Cache
+C:\Users\seatonjr\Desktop\Directions\Directions\Directions\obj\Debug\WindowsApplication1.frmDirections.resources
+C:\Users\seatonjr\Desktop\Directions\Directions\bin\Debug\Directions.exe.config
+C:\Users\seatonjr\Desktop\Directions\Directions\obj\Debug\Directions.exe
+C:\Users\seatonjr\Desktop\Directions\Directions\obj\Debug\Directions.xml
+C:\Users\seatonjr\Desktop\Directions\Directions\obj\Debug\Directions.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Directions\Directions\bin\Debug\Directions.exe.config
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Directions\Directions\obj\Debug\Directions.exe
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Directions\Directions\obj\Debug\Directions.xml
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Directions\Directions\obj\Debug\Directions.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Directions\Directions\bin\Debug\Directions.exe
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Directions\Directions\bin\Debug\Directions.pdb
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Directions\Directions\bin\Debug\Directions.xml
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Directions\Directions\obj\Debug\Directions.vbprojResolveAssemblyReference.cache
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Directions\Directions\obj\Debug\WindowsApplication1.frmDirections.resources
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Directions\Directions\obj\Debug\WindowsApplication1.Resources.resources
+C:\ALL PAST SCHOOL FILES\CS Courses Copies\CSC - 211\Directions\Directions\obj\Debug\Directions.vbproj.GenerateResource.Cache
